@@ -1,0 +1,126 @@
+p.logotext{
+	color:white;
+	font-size:40px;
+	font-weight: bold;
+	font-family: Calibri;
+ 	text-shadow: 2px 2px 6px #FF0000;
+	float: left;
+	margin-left: 130px;
+}
+
+hr{
+	opacity:0.4;
+}
+
+img.atatürk{
+	width: 300px;
+	height: 220px;
+	float:left;
+	padding-left: 140px;
+}
+
+img.logo{
+	margin-left: 45px;
+	width:340px;
+	height:235px;
+	float: left;
+}
+
+a.link{
+	text-decoration: none;
+	margin-left: 25px;
+	font-size:30px;
+	font-family:Candara;
+	color:white;
+}
+
+a.link:hover{
+	color:#fd5f00;
+}
+
+
+#general{
+	width:1500px;
+	height: 900px;
+	margin: auto;
+}
+
+.header{
+	width: 1500px;
+	height: 220px;
+	border:3px solid #30475E;
+	border-radius: 15px;
+	background-color:#13334c;
+	text-align: left;
+}
+
+.menu{
+	width:1500px;
+	height:50px;
+	border:3px solid#30475E;
+	border-radius: 15px;
+	margin-top:10px;
+	padding-top: 10px;
+	background-color: #13334c;
+	text-align:center;
+}
+
+.main{
+	width: 1500px;
+	border:3px solid #30475E;
+	border-radius: 15px;
+	margin-top: 10px;
+	background-color: #13334c;
+}
+
+table{
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	width: 1480px;
+}
+th{
+	border-radius: 5px;
+	border:1px solid white;
+	font-size:25px;
+	font-family: Candara;
+	font-style: italic;
+	color:white;
+	background-color: orange;
+}
+td{
+	padding-left: 25px;
+	height: 75px;
+	text-align: left;
+	border-radius: 5px;
+	border:1px solid white;
+	font-size:18px;
+	font-family: Calibri;
+	color: white;
+	font-weight: bold;
+}
+.bottom{
+	width: 1500px;
+	height:75px;
+	margin-top:10px;
+	margin-bottom: 15px;
+	border:3px solid #30475E;
+	background-color: #13334c;
+	border-radius: 15px;
+	text-align: center;
+	font-family: Arial;
+	font-size:25px;
+	color:#ceefe4;
+}
+
+a.instagram{
+	text-decoration: none;
+	color:#ceefe4;
+}
+
+a.instagram:active{
+	color:orange;
+}
+

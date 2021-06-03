@@ -1,0 +1,129 @@
+p.logotext{
+	color:white;
+	font-size:40px;
+	font-weight: bold;
+	font-family: Calibri;
+ 	text-shadow: 2px 2px 6px #FF0000;
+	float: left;
+	margin-left: 130px;
+}
+
+hr{
+	opacity: 0.6;
+	border:2px dashed white;
+}
+
+img.atatürk{
+	width: 300px;
+	height: 220px;
+	float:left;
+	padding-left: 140px;
+}
+
+img.logo{
+	margin-left: 45px;
+	width:340px;
+	height:235px;
+	float: left;
+}
+
+a.link{
+	text-decoration: none;
+	margin-left: 25px;
+	font-size:30px;
+	font-family:Candara;
+	color:white;
+}
+
+a.link:hover{
+	color:#fd5f00;
+}
+
+
+#general{
+	width:1500px;
+	height: 900px;
+	margin: auto;
+}
+
+.header{
+	width: 1500px;
+	height: 220px;
+	border:3px solid #30475E;
+	border-radius: 15px;
+	background-color:#13334c;
+	text-align: left;
+}
+
+.menu{
+	width:1500px;
+	height:50px;
+	border:3px solid#30475E;
+	border-radius: 15px;
+	margin-top:10px;
+	padding-top: 10px;
+	background-color: #13334c;
+	text-align:center;
+}
+
+.main{
+	width: 1500px;
+	border:3px solid #30475E;
+	border-radius: 15px;
+	margin-top: 10px;
+	background-color: #13334c;
+}
+h3{
+	font-style: italic;
+	text-align: center;
+	font-family: Candara;
+	color:#fe5f55;
+}
+
+img.avatar{
+	border:2px solid yellow;
+	width: 50%;
+	display: block;
+	margin-left:auto;
+	margin-right: auto;
+}
+
+p.names{
+	text-align: center;
+	font-size:30px;
+	color:white;
+	font-family: Calibri;
+	font-weight: bold;
+}
+
+p.names:hover{
+	background-color: white;
+	color:orange;
+}
+
+a.information{
+	text-decoration: none;
+}
+
+.bottom{
+	width: 1500px;
+	height:75px;
+	margin-top:10px;
+	margin-bottom: 15px;
+	border:3px solid #30475E;
+	background-color: #13334c;
+	border-radius: 15px;
+	text-align: center;
+	font-family: Arial;
+	font-size:25px;
+	color:#ceefe4;
+}
+
+a.instagram{
+	text-decoration: none;
+	color:#ceefe4;
+}
+
+a.instagram:active{
+	color:orange;
+}
